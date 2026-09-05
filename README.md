@@ -38,13 +38,13 @@ Graduation project for bilingual classification of student requests in Russian a
 
 [View repository](https://github.com/AhmedHagag1/student-request-classifier)
 
-### Muslim Companion
+### Muslim Companion — private portfolio project
 
-Flutter mobile application built around Quran reading and listening features, search, bookmarks, Adhkar/Dua content, settings, and supporting mobile services. The repository includes tests, documentation, security/privacy notes, and GitHub Actions validation.
+Flutter mobile application built around Quran reading and listening features, search, bookmarks, Adhkar/Dua content, settings, and supporting mobile services. The codebase includes tests, documentation, security/privacy notes, and GitHub Actions validation.
+
+The repository remains private while third-party content and asset redistribution rights are reviewed separately from the application source code.
 
 **Stack:** Flutter · Dart · Mobile · REST integrations · GitHub Actions
-
-[View repository](https://github.com/AhmedHagag1/muslim-companion)
 
 ### RUBWAY — private prototype
 
